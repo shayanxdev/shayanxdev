@@ -7,7 +7,7 @@
 
 Building modern websites & smart automation solutions.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/shauanduty-cpu)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/shayanxdev)
 
 </div>
 
@@ -45,8 +45,8 @@ Hi! I'm Shayan, a developer interested in creating modern digital experiences.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shauanduty-cpu&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauanduty-cpu&layout=compact&theme=github_dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shayanxdev&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanxdev&layout=compact&theme=github_dark&hide_border=true" width="49%" />
 </p>
 
 ---
