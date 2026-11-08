@@ -51,8 +51,8 @@ New projects and practical experiments will be published here as they are comple
 ## 📫 Contact Me
 
 - GitHub: [@shayanxdev](https://github.com/shayanxdev)
-- Telegram: [Contact Me](https://t.me/YOUR_TELEGRAM)
-- Email: YOUR_EMAIL
+- Telegram: [Contact Me](https://t.me/8217941065)
+- Email: shauanduty@gmail.com
 
 ---
 
