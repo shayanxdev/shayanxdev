@@ -1,43 +1,46 @@
- <div align="center">
+ <p align="center">
+  <img src="./banner.png" width="100%" alt="ShayanXDev GitHub Banner" />
+</p>
 
-# SHAYAN
+<h1 align="center">SHAYAN</h1>
 
-### Freelance Web Developer & Python Developer
+<h3 align="center">Freelance Web Developer | Python Developer</h3>
 
-Building modern websites and practical software solutions.
+<p align="center">
+  Building modern websites and practical software solutions.
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-shayanxdev-181717?style=for-the-badge&logo=github)](https://github.com/shayanxdev)
-
-</div>
+<p align="center">
+  <a href="https://github.com/shayanxdev">
+    <img src="https://img.shields.io/badge/GitHub-shayanxdev-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi! I'm Shayan, a developer interested in building modern web applications and useful software solutions.
+Hi! I'm Shayan, a developer passionate about building modern web applications and useful software solutions.
 
 - 🌐 Focused on Web Development
 - 🐍 Working with Python
-- 💻 Experienced with HTML, CSS, JavaScript and PHP
-- 🚀 Improving my skills through real-world projects
-- 🤝 Open to freelance opportunities and collaborations
+- 💻 HTML, CSS, JavaScript and PHP
+- 🚀 Learning through real-world projects
+- 🤝 Open to freelance projects and collaborations
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,php,git,github,vscode" />
-</p>
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shayanxdev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanxdev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 ## 🎯 Current Goals
 
-- Building a professional portfolio
+- Building a professional developer portfolio
 - Developing real-world web applications
 - Improving Python and PHP skills
 - Contributing to open-source projects
@@ -46,18 +49,24 @@ Hi! I'm Shayan, a developer interested in building modern web applications and u
 
 My portfolio is currently under development.
 
-New projects and practical experiments will be published here as they are completed.
+I'm working on practical projects that demonstrate my development skills. New projects will be published here as they are completed.
+
+## 📊 GitHub Activity
+
+- [View My Repositories](https://github.com/shayanxdev?tab=repositories)
+- [View My Contributions](https://github.com/shayanxdev?tab=overview)
+- [View My Commit History](https://github.com/shayanxdev.atom)
 
 ## 📫 Contact Me
 
-- GitHub: [@shayanxdev](https://github.com/shayanxdev)
-- Telegram: [Contact Me](https://t.me/8217941065)
-- Email: shauanduty@gmail.com
+- **GitHub:** [@shayanxdev](https://github.com/shayanxdev)
+- **Telegram:** [Contact Me](https://t.me/8217941065)
+- **Email:** shauanduty@gmail.com
 
 ---
 
 <p align="center">
   <b>CODE. BUILD. INNOVATE.</b>
-  <br>
+  <br/>
   Thanks for visiting my profile! ⭐
 </p>
