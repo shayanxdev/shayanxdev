@@ -60,7 +60,7 @@ I'm working on practical projects that demonstrate my development skills. New pr
 ## 📫 Contact Me
 
 - **GitHub:** [@shayanxdev](https://github.com/shayanxdev)
-- **Telegram:** [Contact Me](https://t.me/8217941065)
+- **Telegram:** [Contact Me](https://web.telegram.org/k/#8217941065)
 - **Email:** shauanduty@gmail.com
 
 ---
