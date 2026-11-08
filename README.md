@@ -1,55 +1,58 @@
 
-# Hi, I'm Shayan 👋
+<div align="center">
 
-### Web Developer | Telegram Bot Developer
+# SHAYAN
 
-I build modern websites, Telegram bots, and useful digital solutions.
+### WEB DEVELOPER · TELEGRAM BOT DEVELOPER
+
+Building modern websites & smart automation solutions.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/shauanduty-cpu)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💻 Passionate about Web Development
-- 🤖 Interested in Telegram Bot Development
-- 🚀 Building practical and creative projects
-- 📚 Always learning new technologies
-- 🎯 Focused on writing clean and maintainable code
+Hi! I'm Shayan, a developer interested in creating modern digital experiences.
+
+- 🌐 Web Development
+- 🤖 Telegram Bot Development
+- 🔗 API Integration
+- ⚙️ Automation Solutions
+- 📚 Always learning and improving
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" />
 </p>
 
 ---
 
-## 💡 What I Do
+## 🚀 What I'm Working On
 
-- 🌐 Website Development
-- 🤖 Telegram Bot Development
-- 🔗 API Integration
-- ⚙️ Automation Solutions
-- 🎨 Responsive Web Design
+- Building web applications
+- Developing Telegram bots
+- Exploring APIs and automation
+- Improving my development skills
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shauanduty-cpu&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauanduty-cpu&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-- GitHub: [@shauanduty-cpu](https://github.com/shauanduty-cpu)
-
----
-
 <p align="center">
-  <i>Always learning. Always building. 🚀</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=shauanduty-cpu&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauanduty-cpu&layout=compact&theme=github_dark&hide_border=true" width="49%" />
 </p>
+
+---
+
+<div align="center">
+
+### "Always learning. Always building."
+
+</div>
