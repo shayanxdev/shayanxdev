@@ -1,15 +1,12 @@
-<p align="center">
-  <img src="banner.png" width="100%" />
-</p>
-<div align="center">
+ <div align="center">
 
 # SHAYAN
 
-### WEB DEVELOPER · TELEGRAM BOT DEVELOPER
+### Freelance Web Developer & Python Developer
 
-Building modern websites & smart automation solutions.
+Building modern websites and practical software solutions.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/shayanxdev)
+[![GitHub](https://img.shields.io/badge/GitHub-shayanxdev-181717?style=for-the-badge&logo=github)](https://github.com/shayanxdev)
 
 </div>
 
@@ -17,44 +14,50 @@ Building modern websites & smart automation solutions.
 
 ## 👨‍💻 About Me
 
-Hi! I'm Shayan, a developer interested in creating modern digital experiences.
+Hi! I'm Shayan, a developer interested in building modern web applications and useful software solutions.
 
-- 🌐 Web Development
-- 🤖 Telegram Bot Development
-- 🔗 API Integration
-- ⚙️ Automation Solutions
-- 📚 Always learning and improving
+- 🌐 Focused on Web Development
+- 🐍 Working with Python
+- 💻 Experienced with HTML, CSS, JavaScript and PHP
+- 🚀 Improving my skills through real-world projects
+- 🤝 Open to freelance opportunities and collaborations
 
----
+## 🛠️ Tech Stack
 
-## 🛠️ Technologies & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,php,git,github,vscode" />
 </p>
-
----
-
-## 🚀 What I'm Working On
-
-- Building web applications
-- Developing Telegram bots
-- Exploring APIs and automation
-- Improving my development skills
-
----
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shayanxdev&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanxdev&layout=compact&theme=github_dark&hide_border=true" width="49%" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shayanxdev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanxdev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+## 🎯 Current Goals
+
+- Building a professional portfolio
+- Developing real-world web applications
+- Improving Python and PHP skills
+- Contributing to open-source projects
+
+## 🚀 Featured Projects
+
+My portfolio is currently under development.
+
+New projects and practical experiments will be published here as they are completed.
+
+## 📫 Contact Me
+
+- GitHub: [@shayanxdev](https://github.com/shayanxdev)
+- Telegram: [Contact Me](https://t.me/YOUR_TELEGRAM)
+- Email: YOUR_EMAIL
 
 ---
 
-<div align="center">
-
-### "Always learning. Always building."
-
-</div>
+<p align="center">
+  <b>CODE. BUILD. INNOVATE.</b>
+  <br>
+  Thanks for visiting my profile! ⭐
+</p>
